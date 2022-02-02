@@ -8,8 +8,6 @@
 #include <GL/glu.h>
 #include <GL/glut.h>
 #include <math.h>
-//CSC 470 Project 2
-//Ryan, Ali, Alleny
 
 using namespace std;
 #define W 600
